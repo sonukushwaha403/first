@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
+//basic app
     public void placeOrder(View view) {
         Intent intent = new Intent(this, orderActivity2.class);
         EditText editText1 = findViewById(R.id.editTextTextPersonName1);
