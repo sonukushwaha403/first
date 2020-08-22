@@ -1,5 +1,5 @@
 package com.example.foodorder;
-
+//this was the first app on android
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
